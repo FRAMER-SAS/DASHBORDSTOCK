@@ -2,6 +2,7 @@
   "name": "stock-dashboard",
   "version": "1.0.0",
   "description": "Dashboard de stock con actualización diaria",
+  "type": "module",
   "dependencies": {
     "xlsx": "^0.18.5",
     "formidable": "^3.5.1"
